@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
 body{
-    background-color: hsl(0, 6%, 23%);
+    background-color: hsl(0, 0%, 8%);
     color:hsl(0, 0%, 100%);
     font-size: 14px;
     font-family: 'Inter';
@@ -9,7 +9,7 @@ body{
     height: 100dvh;
     width: 45dvw;
     margin: auto;
-    background-color: hsl(0, 0%, 8%);
+    
     display: flex;
     align-items: center;
     
